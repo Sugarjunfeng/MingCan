@@ -1,0 +1,2 @@
+# MingCan
+little friend project
